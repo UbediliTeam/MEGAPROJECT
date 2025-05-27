@@ -9,7 +9,7 @@
 
 # Инструкция по запуску
 Ссылка на приложение: https://drive.google.com/drive/folders/19xqqu_nw0DCktakea6i0sBLnbBAfqRuD
-1. **Установка Python**
+1. **Установка Python**  
    Если у вас еше не установлен Python, вам нужно его установить    
      * Скачайте установщик Python с официального сайта https://www.python.org/downloads/
      * Запустите установщик
