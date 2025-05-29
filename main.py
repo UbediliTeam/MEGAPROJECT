@@ -219,7 +219,7 @@ class NLPApp(tk.Tk):
 
     # Открывает диалог выбора Excel-файла для анализа
     def load_file(self):
-        path = filedialog.askopenfilename(title="Выберите Excel-файл", filetypes=[("Excel", "*.xlsx *.xls")])
+        path = filedialog.askopenfilename(title="Выберите Excel-файл", filetypes=[("Excel", "*.xlsx *.xls *.csv")])
         if path:
             self.file_path = path
             self.btn_run.config(state=tk.NORMAL)
